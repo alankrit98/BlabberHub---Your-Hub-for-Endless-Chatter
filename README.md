@@ -147,6 +147,6 @@ Push to the branch: (`git push origin feature-branch.`)
 
 Submit a pull request.
 
-#### License 🛡️
+## License 🛡️
 This project is licensed under the [MIT LICENSE](LICENSE)
 
