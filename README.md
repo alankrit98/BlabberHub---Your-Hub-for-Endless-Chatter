@@ -3,11 +3,17 @@ BlabberHub is a full-stack real-time chat website designed for seamless and dyna
 
 ## Tech Stack 🚀
 **Frontend:** React, Vite, Tailwind CSS, DaisyUI
+
 **Backend:** Node.js, Express.js
+
 **Real-time Communication:** Socket.io
+
 **State Management:** Zustand
+
 **API Communication:** Axios
+
 **Icons:** Lucide React
+
 **Build Tool:** Vite
 
 ## Features💡
