@@ -1,4 +1,4 @@
-**BlabberHub - Your Hub for Endless Chatter 🗨️**
+#BlabberHub - Your Hub for Endless Chatter 🗨️
 BlabberHub is a full-stack real-time chat website designed for seamless and dynamic communication. It offers features such as instant messaging, real-time updates, and an intuitive user interface, built with modern technologies.
 
 *🚀 Tech Stack*
