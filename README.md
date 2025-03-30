@@ -108,17 +108,26 @@ JWT_SECRET=<your-jwt-secret>
 
 ## Technologies Used 🌟
 **React:** Component-based architecture for building the frontend.
+
 **Vite:** Fast build tool for React apps.
+
 **Tailwind CSS + DaisyUI:** For styling and pre-designed UI components.
+
 **Socket.io:** Real-time, bidirectional, and event-based communication.
+
 **Zustand:** Lightweight state management.
+
 **Axios:** HTTP client for API communication.
+
 **Node.js + Express.js:** Backend server and API routing.
 
 ## Future Enhancements 🚀
 **User Authentication with JWT:** Add token-based authentication for secure login sessions.
+
 **Profile Management:** Add user profiles with avatars.
+
 **Chat Groups:** Allow creating and managing group chats.
+
 **Message Reactions:** Enable emoji reactions on messages.
 
 ## Contributing 📜
