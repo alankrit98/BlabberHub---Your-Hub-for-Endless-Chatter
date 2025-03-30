@@ -1,7 +1,7 @@
-#BlabberHub - Your Hub for Endless Chatter 🗨️
+# BlabberHub - Your Hub for Endless Chatter 🗨️
 BlabberHub is a full-stack real-time chat website designed for seamless and dynamic communication. It offers features such as instant messaging, real-time updates, and an intuitive user interface, built with modern technologies.
 
-*🚀 Tech Stack*
+## Tech Stack 🚀
 Frontend: React, Vite, Tailwind CSS, DaisyUI
 
 Backend: Node.js, Express.js
@@ -16,7 +16,7 @@ Icons: Lucide React
 
 Build Tool: Vite
 
-*💡 Features*
+## Features💡
 ✅ Real-Time Messaging: Instantly send and receive messages with real-time updates using Socket.io.
 ✅ Responsive UI: Modern, clean, and fully responsive UI built with Tailwind CSS and DaisyUI.
 ✅ Authentication: Secure login and signup functionality.
@@ -25,7 +25,7 @@ Build Tool: Vite
 ✅ State Management: Efficient state handling using Zustand.
 ✅ API Integration: Axios for seamless backend communication.
 
-*🛠️ Folder Structure*
+## Folder Structure 🛠️
 ```
 /BlabberHub
  ├── /client               # Frontend React application
@@ -51,8 +51,8 @@ Build Tool: Vite
  └── README.md              # Project documentation
 ```
 
-*⚙️ Installation and Setup*
-Clone the repository
+## Installation and Setup ⚙️
+#### Clone the repository
 ```
 git clone <repository-link>
 cd BlabberHub
@@ -82,13 +82,13 @@ cd ../client
 npm run dev
 ```
 
-Open the application
+#### Open the application
 ```
 http://localhost:5000
 You should now be able to access BlabberHub with real-time messaging!
 ```
 
-*🛠️ Environment Variables*
+## Environment Variables 🛠️
 Create a .env file in the /server directory and add the following:
 
 ```
@@ -98,14 +98,14 @@ JWT_SECRET=<your-jwt-secret>
 ```
 ✅ Replace the values with your own MongoDB connection string and JWT secret.
 
-*🔥 API Endpoints*
+## API Endpoints 🔥
 Method	Endpoint	Description
 POST	/api/auth/signup	Register a new user
 POST	/api/auth/login	Authenticate a user
 GET	/api/messages	Get all messages
 POST	/api/messages	Send a new message
 
-*🌟 Technologies Used*
+## Technologies Used 🌟
 React: Component-based architecture for building the frontend.
 
 Vite: Fast build tool for React apps.
@@ -120,7 +120,7 @@ Axios: HTTP client for API communication.
 
 Node.js + Express.js: Backend server and API routing.
 
-*🚀 Future Enhancements*
+## Future Enhancements 🚀
 User Authentication with JWT: Add token-based authentication for secure login sessions.
 
 Profile Management: Add user profiles with avatars.
@@ -129,7 +129,7 @@ Chat Groups: Allow creating and managing group chats.
 
 Message Reactions: Enable emoji reactions on messages.
 
-*📜 Contributing*
+## Contributing 📜
 Fork the repository.
 
 Create a new branch: git checkout -b feature-branch.
@@ -140,6 +140,6 @@ Push to the branch: git push origin feature-branch.
 
 Submit a pull request.
 
-🛡️ License
+#### License 🛡️
 This project is licensed under the [LICENSE]MIT License.
 
