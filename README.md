@@ -99,11 +99,12 @@ JWT_SECRET=<your-jwt-secret>
 ✅ Replace the values with your own MongoDB connection string and JWT secret.
 
 ## API Endpoints 🔥
-Method	Endpoint	Description
-POST	/api/auth/signup	Register a new user
-POST	/api/auth/login	Authenticate a user
-GET	/api/messages	Get all messages
-POST	/api/messages	Send a new message
+| Method |	Endpoint          |	Description          |
+|--------|-------------------|----------------------|
+|  POST	 |  /api/auth/signup	|  Register a new user |
+|  POST	 |  /api/auth/login	 |  Authenticate a user |
+|  GET	  |  /api/messages    |	 Get all messages    |
+|  POST	 |  /api/messages	   |  Send a new message  |
 
 ## Technologies Used 🌟
 **React:** Component-based architecture for building the frontend.
