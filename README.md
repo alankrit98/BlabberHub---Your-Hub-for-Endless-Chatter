@@ -12,11 +12,17 @@ BlabberHub is a full-stack real-time chat website designed for seamless and dyna
 
 ## Features💡
 **✅ Real-Time Messaging:** Instantly send and receive messages with real-time updates using Socket.io
+
 **✅ Responsive UI:** Modern, clean, and fully responsive UI built with Tailwind CSS and DaisyUI
+
 **✅ Authentication:** Secure login and signup functionality
+
 **✅ User-friendly Notifications:** Toast notifications for better user experience
+
 **✅ Dark & Light Themes:** Multiple DaisyUI themes for enhanced UI customization
+
 **✅ State Management:** Efficient state handling using Zustand
+
 **✅ API Integration:** Axios for seamless backend communication
 
 ## Folder Structure 🛠️
