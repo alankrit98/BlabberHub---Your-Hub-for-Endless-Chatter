@@ -34,7 +34,7 @@ BlabberHub is a full-stack real-time chat website designed for seamless and dyna
 ## Folder Structure 🛠️
 ```
 /BlabberHub
- ├── /client               # Frontend React application
+ ├── /frontend              # Frontend React application
  │      ├── /public         # Static assets
  │      ├── /src            # React components and pages
  │      │      ├── /components      # Reusable UI components
@@ -47,7 +47,7 @@ BlabberHub is a full-stack real-time chat website designed for seamless and dyna
  │      ├── vite.config.js       # Vite configuration
  │      └── postcss.config.js    # PostCSS configuration
  │
- ├── /server               # Backend with Node.js and Express.js
+ ├── /backend                  # Backend with Node.js and Express.js
  │      ├── /routes            # API routes
  │      ├── /models            # Database models
  │      ├── index.js           # Entry point for server
@@ -60,31 +60,31 @@ BlabberHub is a full-stack real-time chat website designed for seamless and dyna
 ## Installation and Setup ⚙️
 #### Clone the repository
 ```
-git clone <repository-link>
-cd BlabberHub
+git clone https://github.com/alankrit98/BlabberHub---Your-Hub-for-Endless-Chatter.git
+cd BlabberHub---Your-Hub-for-Endless-Chatter
 Install dependencies
 ```
 
 ```
 # Install frontend dependencies
-cd client
+cd frontend
 npm install
 ```
 ```
 # Install backend dependencies
-cd ../server
+cd ../backend
 npm install
 Start the application
 ```
 
 ```
 # Start the backend server
-cd server
-npm run dev
+cd backend
+npm start
 ```
 ```
 # Start the frontend app
-cd ../client
+cd ../frontend
 npm run dev
 ```
 
