@@ -9,6 +9,7 @@ const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
     origin: "https://blabber-hub-your-hub-for-endless-ch.vercel.app",
+    credentials: true,
   },
 });
 
