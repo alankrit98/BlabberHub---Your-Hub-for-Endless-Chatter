@@ -20,7 +20,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
   cors({
-    origin: process.env.CLIENT_URL || "http://localhost:5173",
+    origin: "https://blabber-hub-your-hub-for-endless-ch.vercel.app",
     credentials: true,
   })
 );
